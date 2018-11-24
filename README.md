@@ -11,9 +11,15 @@ Manual process of keeping student records, book records, account details, managi
 
 > **You can download the report [here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf). To downlaod the presentation, [click here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx).**
 
-> You can check the screenshots of User Interface [here](https://github.com/vinitshahdeo/Library-Management-System/tree/master/screenshots).
+> **You can check the screenshots of User Interface [here](https://github.com/vinitshahdeo/Library-Management-System/tree/master/screenshots).**
 
 ## Core Features
+
+![admin](https://img.shields.io/badge/admin-login-teal.svg) 
+![search](https://img.shields.io/badge/seacrh-books-yellowgreen.svg)
+![issue](https://img.shields.io/badge/issue-books-ff69b4.svg)
+![member](https://img.shields.io/badge/add-member-dodgerblue.svg) 
+![add](https://img.shields.io/badge/add-books-orange.svg) 
 
 - **Searching** of books
 - **Issuing** and **returning** books
