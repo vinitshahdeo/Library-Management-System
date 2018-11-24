@@ -3,11 +3,13 @@
 
 ![Library Management System](https://img.shields.io/badge/library--management-system-orange.svg) 
 ![DBMS Project](https://img.shields.io/badge/DBMS-project-yellowgreen.svg)
-![Open Source Programming](https://img.shields.io/badge/open--source-programming-ff69b4.svg) 
+![Open Source Programming](https://img.shields.io/badge/open--source-programming-ff69b4.svg)
 
 ## Abstract
 
 Manual process of keeping student records, book records, account details, managing employee is very difficult. There are various problems also faced by the student in library such as finding any particular book, information whether book is available or not, for what time this book will be available, searching of books using ISBN number etc. To eliminate this manual system, **Library Management System** has been developed.
+
+> **You can download the report [here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf). To downlaod the presentation, [click here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx).**
 
 ## Core Features
 
@@ -77,7 +79,7 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 1. Download this repo and extract it in your **www/htdocs** directory. 
 2. Import the [database] from **db** folder. 
 3. Configure `dbcon.php` 
-4. Run **`localhost/{YOUR FOLDER NAME}/`**
+4. Run **`localhost/{YOUR FOLDER NAME}`**
 
 ## Need help?
 
