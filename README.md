@@ -70,7 +70,7 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 
 - Download [WAMP](http://www.wampserver.com/en/)
 - Download [XAMPP](https://www.apachefriends.org/download.html)
-- Downlaod [MAMP](https://www.mamp.info/en/)
+- Download [MAMP](https://www.mamp.info/en/)
 
 ## How to run?
 
