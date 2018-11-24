@@ -74,4 +74,27 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 
 ## How to run?
 
-Download this repo and extract it in your **www/htdocs** directory. Import the [database] from **db** folder. Configure `dbcon.php` and run `localhost/{YOUR FOLDER NAME}/` 
+1. Download this repo and extract it in your **www/htdocs** directory. 
+2. Import the [database] from **db** folder. 
+3. Configure `dbcon.php` 
+4. Run **`localhost/{YOUR FOLDER NAME}/`**
+
+## Need help?
+
+Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo).
+
+Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
+
+[![Generic badge](https://img.shields.io/badge/facebook-add-blue.svg)](https://www.facebook.com/vinit.shahdeo) [![Generic badge](https://img.shields.io/badge/quora-ask-red.svg)](https://www.quora.com/profile/Vinit-Shahdeo-1) [![Generic badge](https://img.shields.io/badge/instagram-follow-yellow.svg)](https://www.instagram.com/vinitshahdeo/)
+
+## License
+
+MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)
+
+## Oh, Thanks!
+
+Thank you for being here!
+This project has saved me and my friends for many times in college. **Share your story(@[vinitshahdeo@gmail.com](https://mail.google.com/mail/))** if you're using this for your mini/course project. 
+
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://facebook.com/vinit.shahdeo) 
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/Library-Management-System.svg?style=social)](https://twitter.com/intent/tweet?text=Library%20Management%20System%20by@Vinit_Shahdeo%20:&url=https://github.com/vinitshahdeo/Library-Management-System)
