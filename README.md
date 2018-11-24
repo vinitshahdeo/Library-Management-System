@@ -11,6 +11,8 @@ Manual process of keeping student records, book records, account details, managi
 
 > **You can download the report [here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf). To downlaod the presentation, [click here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx).**
 
+> You can check the screenshots of User Interface [here](https://github.com/vinitshahdeo/Library-Management-System/tree/master/screenshots).
+
 ## Core Features
 
 - **Searching** of books
@@ -91,7 +93,7 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
 ## License
 
-MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)
+**MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)**
 
 ## Oh, Thanks!
 
