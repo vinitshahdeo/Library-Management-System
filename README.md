@@ -7,7 +7,7 @@ Manual process of keeping student records, book records, account details, managi
 ## Core Features
 
 - **Searching** of books
-- **Issuing** and returning books
+- **Issuing** and **returning** books
 - Check fines(if any)
 - Librarian can read information about any member
 - Librarian can track the books issued by a particular student
@@ -17,7 +17,7 @@ Manual process of keeping student records, book records, account details, managi
 
 ## Additional Features
 
-Admin Dashboard deal with the following : 
+**Admin Dashboard** deal with the following : 
 
 - Displaying all members records.
 
