@@ -1,0 +1,161 @@
+.pix_diapo {
+	background: #000;
+	-moz-box-shadow: 0 3px 6px #000;
+	-webkit-box-shadow: 0 3px 6px #000;
+	box-shadow: 0 3px 6px #000;
+	height: 470px;
+	margin: 0 10px;
+	overflow: hidden;
+	position: relative;
+	width: 940px;
+}
+.pix_diapo > div {
+	display: none;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+#pix_prev, #pix_next {
+	cursor: pointer;
+	display: block;
+	height: 40px;
+	margin-top: -20px;
+	position: absolute;
+	top: 50%;
+	width: 40px;
+	z-index: 1001;
+}
+#pix_prev {
+	background: url(../images/diapo/prev.png) no-repeat;
+	left: 10px;
+	display:none;
+}
+#pix_next {
+	background: url(../images/diapo/next.png) no-repeat;
+	left: auto!important;
+	right: 10px!important;
+	display:none;
+}
+#pix_pag {
+	margin: 0 auto;
+	position: relative;
+	width: 940px;
+	z-index: 1002;
+}
+#pix_commands {
+	cursor: pointer;
+	display: block;
+	float: left;
+	height: 26px;
+	margin: 15px 0 0 13px;
+	position: relative;
+	width: 24px;
+}
+#pix_play {
+	background: url(../images/diapo/play.png) center no-repeat;
+	height: 24px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 24px;
+}
+#pix_stop {
+	background: url(../images/diapo/pause.png) center no-repeat;
+	height: 24px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 24px;
+}
+#pix_pag_ul {
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+#pix_pag_ul > li {
+	cursor: pointer;
+	display: block;
+	.display: inline-block;
+	float: left;
+	list-style: none;
+	margin: 0 10px 0 0;
+	padding: 20px 8px 0;
+	text-align: center;
+	text-indent: -9999px;
+	width: 16px;
+}
+#pix_pag_ul > li > span {
+	background: #222;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	display: block;
+	height: 16px;
+	width: 16px;
+}
+#pix_pag_ul > li:hover > span > span {
+	background: #ccc;
+}
+#pix_pag_ul > li > span > span {
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	display: block;
+	float: left;
+	height: 8px;
+	margin: 4px;
+	width: 8px;
+}
+#pix_pag_ul > li.diapocurrent > span > span {
+	background: #ff0;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+}
+#pix_pag_ul > li > .pix_thumb {
+	border: 4px solid #f2f2f2;
+	.border: 4px solid #e6e6e6;
+	border: 4px solid #e6e6e6\9;
+	-moz-box-shadow: 0 1px 8px #000;
+	-webkit-box-shadow: 0 1px 8px #000;
+	box-shadow: 0 1px 8px #000;
+	height: 58px;
+ 	left: -17px;
+	position: absolute;
+	top: -40px;
+	width: 58px;
+}
+#pix_pag_ul > li > .thumb_arrow {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 4px solid  #e6e6e6;
+	top: 26px;
+	left: 12px;
+	position: absolute;
+}
+.pix_relativize {
+	overflow: hidden;
+	position: relative;
+}
+.imgFake {
+	cursor: pointer;
+}
+.elemHover {
+	position: absolute;
+}
+.caption {
+	background: rgba(0, 0, 0, 0.8);
+    .filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#cc000000, endColorstr=#cc000000);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#cc000000, endColorstr=#cc000000)\9;
+	bottom: 20px;
+	color: #fff;
+	display: block;
+	font-size: 13px;
+	padding: 20px;
+	width: 900px;
+}
+.ui-loader {
+	display: none;
+}

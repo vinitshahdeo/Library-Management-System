@@ -1,0 +1,72 @@
+.navbar{
+display:none;
+}
+.modal{
+	display:none;
+}
+.action{
+	display:none;
+}
+h1{
+	text-transform:uppercase;
+}
+.title{
+	display:visible;
+}
+.dataTables_info{
+	display:none;
+}
+th{
+		text-align:left;
+}
+td{
+	text-align:left;
+	border-top:1px solid;
+	padding:2px;
+}
+.btn{
+	display:none;
+}
+.alert{
+	display:none;
+}
+body{
+	font-family:arial;
+	font-size:13px;
+}
+.add_grade{
+display:none;
+}
+.act{
+display:none;
+}
+.logout{
+display:none;
+}
+#add{
+display:none;
+}
+.dataTables_filter{
+display:none;
+}
+.nav{
+display:none;
+}
+.dataTables_paginate {
+display:none;
+}
+#example_length{
+display:none;
+}
+.test123{
+display:none;
+}
+.name span{
+display:block;
+}
+.name span strong{
+margin-left:10px;
+}
+span{
+text-transform:uppercase;
+}
