@@ -109,7 +109,7 @@ Looking for the **"J" Component** stuffs, you've landed at right place!
 - [Download](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf) OSP report
 - [Download](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pdf) presentation
 
-> You can use this project for the following courses : 
+> You can use [this](https://github.com/vinitshahdeo/Library-Management-System) project for the following courses : 
 
 | Course Name  | Course Code  |
 |:-:|:-:|
