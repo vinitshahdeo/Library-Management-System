@@ -76,11 +76,13 @@ Manual process of keeping student records, book records, account details, managi
 
 ## Requirements
 
-[![Generic badge](https://img.shields.io/badge/wamp-server-red.svg)](http://www.wampserver.com/en/) [![Generic badge](https://img.shields.io/badge/xampp-server-blue.svg)](https://www.apachefriends.org/download.html) [![Generic badge](https://img.shields.io/badge/mamp-server-lightgrey.svg)](https://www.mamp.info/en/)
+[![PHP](https://img.shields.io/static/v1.svg?label=Source%20Code&message=PHP&logo=php&style=social)]
 
 The source code of this project is written in **PHP**. So, you'll require **WAMP/XAMPP/MAMP** to run this project.
 
 ## Installing 
+
+[![wamp](https://img.shields.io/badge/wamp-server-red.svg)](http://www.wampserver.com/en/) [![xampp](https://img.shields.io/badge/xampp-server-blue.svg)](https://www.apachefriends.org/download.html) [![mamp](https://img.shields.io/badge/mamp-server-lightgrey.svg)](https://www.mamp.info/en/)
 
 - Download [WAMP](http://www.wampserver.com/en/)
 - Download [XAMPP](https://www.apachefriends.org/download.html)
