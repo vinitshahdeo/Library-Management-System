@@ -101,12 +101,24 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
 [![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
 
+## Are you a [VITian](http://www.vit.ac.in/)?
+
+If you're a **VITian** and looking for the **"J" Component** stuffs, you've landed at right place! 
+
+> You can use this project for the following courses : 
+
+| Course Name  | Course Code  |
+|:-:|---|
+| Database Management Systems | ITE1003 |
+| Open Source Programming | ITE1008 |
+| Object Oriented Analysis and Design  | ITE1007 |
+| Software Engineering-Principles and Practices	| ITE1005 |
+
 ## License
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Library-Management-System.svg?style=social&logo=github)](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE) [![Author](https://img.shields.io/static/v1.svg?label=Author&message=@vinitshahdeo&logo=github&style=social)](https://github.com/vinitshahdeo)
 
 **MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)**
-
 
 ## Oh, Thanks!
 
