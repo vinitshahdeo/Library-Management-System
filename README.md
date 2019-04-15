@@ -103,12 +103,16 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
 ## Are you a [VITian](http://www.vit.ac.in/)?
 
-Looking for the **"J" Component** stuffs, you've landed at right place! 
+Looking for the **"J" Component** stuffs, you've landed at right place!
+
+- [Download](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LMS-DBMS%20Report-Vinit%20Shahdeo.pdf) DBMS report
+- [Download](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf) OSP report
+- [Download](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pdf) presentation
 
 > You can use this project for the following courses : 
 
 | Course Name  | Course Code  |
-|---|---|
+|:-:|:-:|
 | Database Management Systems | ITE1003 |
 | Open Source Programming | ITE1008 |
 | Object Oriented Analysis and Design  | ITE1007 |
