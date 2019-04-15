@@ -103,7 +103,7 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
 ## Are you a [VITian](http://www.vit.ac.in/)?
 
-If you're a **VITian** and looking for the **"J" Component** stuffs, you've landed at right place! 
+Looking for the **"J" Component** stuffs, you've landed at right place! 
 
 > You can use this project for the following courses : 
 
