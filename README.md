@@ -108,7 +108,7 @@ Looking for the **"J" Component** stuffs, you've landed at right place!
 > You can use this project for the following courses : 
 
 | Course Name  | Course Code  |
-|:-:|---|
+|---|---|
 | Database Management Systems | ITE1003 |
 | Open Source Programming | ITE1008 |
 | Object Oriented Analysis and Design  | ITE1007 |
