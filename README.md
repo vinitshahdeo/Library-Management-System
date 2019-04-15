@@ -103,9 +103,10 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
 ## License
 
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Library-Management-System.svg?style=social&logo=github)](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE) [![Author](https://img.shields.io/static/v1.svg?label=Author&message=@vinitshahdeo&logo=github&style=social)](https://github.com/vinitshahdeo)
+
 **MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)**
 
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Library-Management-System.svg?style=social)](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)
 
 ## Oh, Thanks!
 
