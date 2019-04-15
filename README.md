@@ -36,6 +36,8 @@ Manual process of keeping student records, book records, account details, managi
 
 ## Additional Features
 
+:books: :date: :moneybag:
+
 **Admin Dashboard** deal with the following : 
 
 - Displaying all members records.
