@@ -1,13 +1,17 @@
 # Online Library Management System
 #### An interactive web portal for automating various manual processes done by librarian.
 
+[![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/Library-Management-System.svg?logo=github&style=social)](https://vinitshahdeo.github.io/Library-Management-System/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Library-Management-System.svg?logo=git&style=social)](https://vinitshahdeo.github.io/Library-Management-System/) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Library-Management-System.svg?style=social&logo=github)](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)
+
+## Abstract
+
 ![Library Management System](https://img.shields.io/badge/library--management-system-orange.svg) 
 ![DBMS Project](https://img.shields.io/badge/DBMS-project-yellowgreen.svg)
 ![Open Source Programming](https://img.shields.io/badge/open--source-programming-ff69b4.svg)
 
-## Abstract
-
 Manual process of keeping student records, book records, account details, managing employee is very difficult. There are various problems also faced by the student in library such as finding any particular book, information whether book is available or not, for what time this book will be available, searching of books using ISBN number etc. To eliminate this manual system, **Library Management System** has been developed.
+
+[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf)
 
 > **You can download the report [here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf). To download the presentation, [click here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx).**
 
@@ -95,7 +99,7 @@ Feel free to contact me via [Facebook](https://www.facebook.com/vinit.shahdeo).
 
 Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
-[![Generic badge](https://img.shields.io/badge/facebook-add-blue.svg)](https://www.facebook.com/vinit.shahdeo) [![Generic badge](https://img.shields.io/badge/quora-ask-red.svg)](https://www.quora.com/profile/Vinit-Shahdeo-1) [![Generic badge](https://img.shields.io/badge/instagram-follow-yellow.svg)](https://www.instagram.com/vinitshahdeo/)
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@vinit.shahdeo&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/vinit.shahdeo)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@vinitshahdeo&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/vinitshahdeo/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@vinitshahdeo&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/vinitshahdeo/)
 
 ## License
 
@@ -105,10 +109,13 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 
 ## Oh, Thanks!
 
-Thank you for being here!
-This project has saved me and my friends for many times in college. 
-
-**Share your story([vinitshahdeo@gmail.com](https://mail.google.com/mail/))** if you're using this repo for your mini/course project. I will be more than happy to know how does this project helped you.
-
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://facebook.com/vinit.shahdeo) 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/Library-Management-System.svg?style=social)](https://twitter.com/intent/tweet?text=Library%20Management%20System%20by@Vinit_Shahdeo%20:&url=https://github.com/vinitshahdeo/Library-Management-System)
+
+Thank you for being here!
+This project has saved me and my friends for many times in college. :joy:
+
+**Share your story([vinitshahdeo@gmail.com](https://mail.google.com/mail/))** if you're using this repo for your mini/course project. I will be more than happy to know how does this project helped you. :blush:
+
+[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/)
+
