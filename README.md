@@ -36,8 +36,6 @@ Manual process of keeping student records, book records, account details, managi
 
 ## Additional Features
 
-:books: :date: :moneybag:
-
 **Admin Dashboard** deal with the following : 
 
 - Displaying all members records.
@@ -116,9 +114,9 @@ Invite me to connect on [LinkedIn](https://www.linkedin.com/in/vinitshahdeo/).
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/Library-Management-System.svg?style=social)](https://twitter.com/intent/tweet?text=Library%20Management%20System%20by@Vinit_Shahdeo%20:&url=https://github.com/vinitshahdeo/Library-Management-System)
 
 Thank you for being here!
-This project has saved me and my friends for many times in college. :joy:
+This project has saved me and my friends for many times in college.
 
-**Share your story([vinitshahdeo@gmail.com](https://mail.google.com/mail/))** if you're using this repo for your mini/course project. I will be more than happy to know how does this project helped you. :blush:
+**Share your story([vinitshahdeo@gmail.com](https://mail.google.com/mail/))** if you're using this repo for your mini/course project. I will be more than happy to know how does this project helped you.
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/)
 
