@@ -64,11 +64,11 @@ Manual process of keeping student records, book records, account details, managi
 
 ## Technology Stack Used
 
-![HTML](https://img.shields.io/badge/frontend-html-orange.svg) 
-![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg)
-![JavaScript](https://img.shields.io/badge/frontend-js-ff69b4.svg)
-![PHP](https://img.shields.io/badge/backend-php-blue.svg) 
-![MYSQL](https://img.shields.io/badge/database-mysql-lightgray.svg) 
+![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
+![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
+![JavaScript](https://img.shields.io/badge/frontend-js-ff69b4.svg?logo=javascript&style=flat-square)
+![PHP](https://img.shields.io/badge/backend-php-blue.svg?logo=php&style=flat-square) 
+![MYSQL](https://img.shields.io/badge/database-mysql-lightgray.svg?logo=mysql&logoColor=white&style=flat-square) 
 
 - Front End - **HTML**, **CSS**, **JavaScript**
 - Back End - **PHP**
@@ -139,4 +139,13 @@ This project has saved me and my friends for many times in college.
 **Share your story([vinitshahdeo@gmail.com](https://mail.google.com/mail/))** if you're using this repo for your mini/course project. I will be more than happy to know how does this project helped you.
 
 [![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/)
+
+```javascript
+
+  if (isAwesome) {
+    starThisRepository();
+    // thanks in advance :p
+  }
+  
+```
 
